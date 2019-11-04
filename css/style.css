@@ -1,0 +1,73 @@
+
+.botonesUp {
+    background-color: #e2e2e2;
+    font-size: 14px;
+    padding-top: 5px;
+}
+.botonesUp a {
+    margin: 20px;
+    text-decoration: none;
+    color: #000000;
+
+}
+.botonesUp a, i {
+    margin-right: 10px;
+}
+.botonesUp a:hover {
+    text-decoration: none;
+
+}
+header {
+    margin: 0 auto;
+    max-width: 90%;
+    text-align: center;
+}
+/*HEADER*/
+header h1, .texto {
+    display: inline-block;
+    max-width: 100%;
+    vertical-align: middle;
+    padding-top: 10px;
+}
+/*MAIN*/
+.main {
+    background-color: #f8f8f8;
+}
+.mensaje {
+    padding: 15px 0px 0px 50px;
+    width: 90%;
+}
+.encabezado {
+    padding-bottom: 8px;
+    text-align: justify;
+    font-size: 34px;
+}
+.redaccion {
+    text-align: justify;
+    font-size: 16px;
+}
+/*BOTONES*/
+.botones {
+    padding: 40px 25%;
+    width: 100%;
+}
+
+/*FOOTER*/
+footer {
+
+    background-color: #15c078;
+
+
+}
+html,
+body {
+    height: 100%;
+}
+
+#page-content {
+    flex: 1 0 auto;
+}
+
+#sticky-footer {
+    flex-shrink: none;
+}
