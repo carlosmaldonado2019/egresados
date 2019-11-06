@@ -26,7 +26,7 @@ include('sesion.php');
 </style>
 
 <div class="container-fluid">
-    <h6 class="x_panel text-center">Datos de Posgrado</h6>
+    <h6 class="x_panel text-center">DATOS DE POSGRADO</h6>
     <div class="row">
         <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="x_panel">
@@ -300,6 +300,159 @@ include('sesion.php');
                 </div>
             </div>
 
+        </div>
+    </div>
+    <div class="container-fluid">
+        <h6 class="x_panel text-center">PROCESO DE ENSEÑANZA Y APRENDIZAJE</h6>
+        <br>
+        <h6 class="x_panel text-center">27. ¿Cómo evaluaría los siguientes aspectos del programa?</h6>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart39"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart40"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart41"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart42"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart43"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart44"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart45"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart46"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart47"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart48"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart49"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart50"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart51"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart52"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart53"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart54"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart55"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart56"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart57"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart58"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart59"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="x_panel">
+                    <canvas id="myChart60"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <h6 class="x_panel text-center">ACTIVIDADES DE INVESTIGACIÓN</h6>
+            <br>
+            <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="x_panel">
+                        <canvas id="myChart61"></canvas>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <div class="x_panel">
+                        <canvas id="myChart62"></canvas>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

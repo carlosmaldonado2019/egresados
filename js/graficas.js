@@ -395,6 +395,231 @@ $(function () {
 
         grafica26(data);
     })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-1.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_1(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-2.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_2(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-3.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_3(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-4.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_4(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-5.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_5(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-6.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_6(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-7.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_7(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-8.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_8(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-9.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_9(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-10.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_10(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-11.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_11(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-12.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_12(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-13.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_13(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-14.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_14(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-15.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_15(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-16.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_16(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-17.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_17(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-18.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_18(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-19.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_19(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta27-20.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica27_20(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta28.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica28(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta29.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica29(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta30.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica30(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta31.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica31(data);
+    })
+    $.ajax({
+        type: "GET",
+        url: '../admin/graficas/pregunta32.php',
+        contentType: 'application/json',
+        dataType: "json"
+    }).done(function (data) {
+
+        grafica32(data);
+    })
 });
 
 function grafica6(data) {
@@ -2270,6 +2495,1260 @@ function grafica26(data) {
             }]
         },
         options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_1(data) {
+    var ctx = document.getElementById('myChart39').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-1.- Métodos de enseñanza',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_2(data) {
+    var ctx = document.getElementById('myChart40').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-2.- Actualidad de los contenidos teóricos de las principales asignaturas',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_3(data) {
+    var ctx = document.getElementById('myChart41').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-3.- Actualidad de los contenidos en general',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_4(data) {
+    var ctx = document.getElementById('myChart42').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-4.- Grado de aplicabilidad de los contenidos a la realidad nacional',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_5(data) {
+    var ctx = document.getElementById('myChart43').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-5.- Habilidades para la identificación y resolución de problemas',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_6(data) {
+    var ctx = document.getElementById('myChart44').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-6.- Grado de vinculación temática entre las asignaturas',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_7(data) {
+    var ctx = document.getElementById('myChart45').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-7.- Pertinencia del curriculum (rígido o flexible)',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_8(data) {
+    var ctx = document.getElementById('myChart46').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-8.- Pertinencia y suficiencia de los materiales y apoyo técnico',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_9(data) {
+    var ctx = document.getElementById('myChart47').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-9.- Pertinencia y suficiencia de los materiales bibliográficos',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_10(data) {
+    var ctx = document.getElementById('myChart48').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-10.- Métodos de evaluación del aprendizaje',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_11(data) {
+    var ctx = document.getElementById('myChart49').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-11.- Adecuación de las instalaciones físicas',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_12(data) {
+    var ctx = document.getElementById('myChart50').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-12.- Grado de formación pedagógica de los profesores',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_13(data) {
+    var ctx = document.getElementById('myChart51').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-13.- Flexibilidad del curriculum',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_14(data) {
+    var ctx = document.getElementById('myChart52').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-14.- Relación maestro-estudiante',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_15(data) {
+    var ctx = document.getElementById('myChart53').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-15.- Relación entre estudiantes',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_16(data) {
+    var ctx = document.getElementById('myChart54').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-16.- Puntualidad y asistencia de los profesores',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_17(data) {
+    var ctx = document.getElementById('myChart55').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-5.- Su aprendizaje',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_18(data) {
+    var ctx = document.getElementById('myChart56').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-18.- Desarrollo de habilidades orientadas hacia la dirección ',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_19(data) {
+    var ctx = document.getElementById('myChart57').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-19.- Desarrollo de habilidades para la cooperación y el trabajo en equipo',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica27_20(data) {
+    var ctx = document.getElementById('myChart58').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '27-20.- Tiempo asignado a cada asignatura',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica28(data) {
+    var ctx = document.getElementById('myChart58').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '28.- Los objetivos de su posgrado con relación a su actual campo de trabajo, están',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica29(data) {
+    var ctx = document.getElementById('myChart59').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '29.- Los conocimientos que adquirió durante su formación en el posgrado satisfacen las necesidades de su empleo actual:',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica30(data) {
+    var ctx = document.getElementById('myChart60').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+
+
+            labels: names,
+            datasets: [{
+                label: '30.- ¿Considera que durante sus estudios de posgrado tuvo oportunidad de reflexionar sobre problemas éticos a los que se enfrenta en su ejercicio profesional',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica31(data) {
+    var ctx = document.getElementById('myChart61').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: names,
+            datasets: [{
+                label: 'num. de alumnos',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            title: {
+                display: true,
+                text: '31.- ¿Había vinculación entre los proyectos de investigación que tenía el programa y las investigaciones o proyectos de trabajo realizadas por los estudiantes para obtener el grado? '
+            },
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+
+    });
+
+    window.onload = function (e) {
+        e.preventDefault();
+    };
+}
+function grafica32(data) {
+    var ctx = document.getElementById('myChart62').getContext('2d');
+    var marks = [];
+    var names = [];
+    for (var i in data) {
+        names.push(data[i].nombre);
+        marks.push(data[i].num);
+    }
+
+
+    var myChart2 = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: names,
+            datasets: [{
+                label: 'num. de alumnos',
+                data: marks,
+                backgroundColor: [
+                    'rgba(255,226,45,0.2)',
+                    'rgba(75, 192, 192, 0.2)'
+                ],
+                borderColor: [
+                    'rgb(255,226,45)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            title: {
+                display: true,
+                text: '32.- ¿En la planeación curricular de su programa de posgrado se contemplaron actividades para incorporar a los estudiantes de modo activo en los proyectos de investigación o profesionales existentes? '
+            },
             scales: {
                 yAxes: [{
                     ticks: {
